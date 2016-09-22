@@ -14,6 +14,35 @@
 		4574DDCF1D938D040059B062 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4574DDCD1D938D040059B062 /* LaunchScreen.storyboard */; };
 		4574DDDA1D938D040059B062 /* SwiftPractiseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DDD91D938D040059B062 /* SwiftPractiseTests.swift */; };
 		4574DDE51D938D040059B062 /* SwiftPractiseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DDE41D938D040059B062 /* SwiftPractiseUITests.swift */; };
+		4574DDF91D938F0E0059B062 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DDF81D938F0E0059B062 /* AppDelegate.swift */; };
+		4574DDFB1D938F0E0059B062 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DDFA1D938F0E0059B062 /* ViewController.swift */; };
+		4574DDFE1D938F0E0059B062 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4574DDFC1D938F0E0059B062 /* Main.storyboard */; };
+		4574DE001D938F0E0059B062 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4574DDFF1D938F0E0059B062 /* Assets.xcassets */; };
+		4574DE031D938F0E0059B062 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4574DE011D938F0E0059B062 /* LaunchScreen.storyboard */; };
+		4574DE0E1D938F0E0059B062 /* TableView___Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DE0D1D938F0E0059B062 /* TableView___Tests.swift */; };
+		4574DE191D938F0E0059B062 /* TableView___UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DE181D938F0E0059B062 /* TableView___UITests.swift */; };
+		4574DE2B1D9396CA0059B062 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DE2A1D9396CA0059B062 /* AppDelegate.swift */; };
+		4574DE2D1D9396CA0059B062 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DE2C1D9396CA0059B062 /* ViewController.swift */; };
+		4574DE301D9396CA0059B062 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4574DE2E1D9396CA0059B062 /* Main.storyboard */; };
+		4574DE321D9396CA0059B062 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4574DE311D9396CA0059B062 /* Assets.xcassets */; };
+		4574DE351D9396CA0059B062 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4574DE331D9396CA0059B062 /* LaunchScreen.storyboard */; };
+		4574DE401D9396CA0059B062 /* TableView________Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DE3F1D9396CA0059B062 /* TableView________Tests.swift */; };
+		4574DE4B1D9396CA0059B062 /* TableView________UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DE4A1D9396CA0059B062 /* TableView________UITests.swift */; };
+		4574DE5D1D93999B0059B062 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DE5C1D93999B0059B062 /* AppDelegate.swift */; };
+		4574DE5F1D93999B0059B062 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DE5E1D93999B0059B062 /* ViewController.swift */; };
+		4574DE621D93999B0059B062 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4574DE601D93999B0059B062 /* Main.storyboard */; };
+		4574DE641D93999B0059B062 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4574DE631D93999B0059B062 /* Assets.xcassets */; };
+		4574DE671D93999B0059B062 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4574DE651D93999B0059B062 /* LaunchScreen.storyboard */; };
+		4574DE721D93999C0059B062 /* _____Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DE711D93999C0059B062 /* _____Tests.swift */; };
+		4574DE7D1D93999C0059B062 /* _____UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DE7C1D93999C0059B062 /* _____UITests.swift */; };
+		4574DE891D9399B60059B062 /* HttpTools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DE881D9399B60059B062 /* HttpTools.swift */; };
+		4574DE911D93A8700059B062 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DE901D93A8700059B062 /* AppDelegate.swift */; };
+		4574DE931D93A8700059B062 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DE921D93A8700059B062 /* ViewController.swift */; };
+		4574DE961D93A8700059B062 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4574DE941D93A8700059B062 /* Main.storyboard */; };
+		4574DE981D93A8700059B062 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4574DE971D93A8700059B062 /* Assets.xcassets */; };
+		4574DE9B1D93A8700059B062 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4574DE991D93A8700059B062 /* LaunchScreen.storyboard */; };
+		4574DEA61D93A8700059B062 /* ___logTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DEA51D93A8700059B062 /* ___logTests.swift */; };
+		4574DEB11D93A8700059B062 /* ___logUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DEB01D93A8700059B062 /* ___logUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,6 +60,62 @@
 			remoteGlobalIDString = 4574DDC01D938D030059B062;
 			remoteInfo = SwiftPractise;
 		};
+		4574DE0A1D938F0E0059B062 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4574DDB91D938D030059B062 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4574DDF51D938F0E0059B062;
+			remoteInfo = "TableView的使用";
+		};
+		4574DE151D938F0E0059B062 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4574DDB91D938D030059B062 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4574DDF51D938F0E0059B062;
+			remoteInfo = "TableView的使用";
+		};
+		4574DE3C1D9396CA0059B062 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4574DDB91D938D030059B062 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4574DE271D9396CA0059B062;
+			remoteInfo = "TableView的使用简洁的写法";
+		};
+		4574DE471D9396CA0059B062 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4574DDB91D938D030059B062 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4574DE271D9396CA0059B062;
+			remoteInfo = "TableView的使用简洁的写法";
+		};
+		4574DE6E1D93999C0059B062 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4574DDB91D938D030059B062 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4574DE591D93999B0059B062;
+			remoteInfo = "闭包的使用";
+		};
+		4574DE791D93999C0059B062 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4574DDB91D938D030059B062 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4574DE591D93999B0059B062;
+			remoteInfo = "闭包的使用";
+		};
+		4574DEA21D93A8700059B062 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4574DDB91D938D030059B062 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4574DE8D1D93A8700059B062;
+			remoteInfo = "自定义log";
+		};
+		4574DEAD1D93A8700059B062 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4574DDB91D938D030059B062 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4574DE8D1D93A8700059B062;
+			remoteInfo = "自定义log";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +132,59 @@
 		4574DDE01D938D040059B062 /* SwiftPractiseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftPractiseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4574DDE41D938D040059B062 /* SwiftPractiseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftPractiseUITests.swift; sourceTree = "<group>"; };
 		4574DDE61D938D040059B062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4574DDF61D938F0E0059B062 /* TableView的使用.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TableView的使用.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4574DDF81D938F0E0059B062 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4574DDFA1D938F0E0059B062 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4574DDFD1D938F0E0059B062 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4574DDFF1D938F0E0059B062 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4574DE021D938F0E0059B062 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4574DE041D938F0E0059B062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4574DE091D938F0E0059B062 /* TableView的使用Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TableView的使用Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4574DE0D1D938F0E0059B062 /* TableView___Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TableView___Tests.swift"; sourceTree = "<group>"; };
+		4574DE0F1D938F0E0059B062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4574DE141D938F0E0059B062 /* TableView的使用UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TableView的使用UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4574DE181D938F0E0059B062 /* TableView___UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TableView___UITests.swift"; sourceTree = "<group>"; };
+		4574DE1A1D938F0E0059B062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4574DE281D9396CA0059B062 /* TableView的使用简洁的写法.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TableView的使用简洁的写法.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4574DE2A1D9396CA0059B062 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4574DE2C1D9396CA0059B062 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4574DE2F1D9396CA0059B062 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4574DE311D9396CA0059B062 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4574DE341D9396CA0059B062 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4574DE361D9396CA0059B062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4574DE3B1D9396CA0059B062 /* TableView的使用简洁的写法Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TableView的使用简洁的写法Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4574DE3F1D9396CA0059B062 /* TableView________Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TableView________Tests.swift"; sourceTree = "<group>"; };
+		4574DE411D9396CA0059B062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4574DE461D9396CA0059B062 /* TableView的使用简洁的写法UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TableView的使用简洁的写法UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4574DE4A1D9396CA0059B062 /* TableView________UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TableView________UITests.swift"; sourceTree = "<group>"; };
+		4574DE4C1D9396CA0059B062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4574DE5A1D93999B0059B062 /* 闭包的使用.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "闭包的使用.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4574DE5C1D93999B0059B062 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4574DE5E1D93999B0059B062 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4574DE611D93999B0059B062 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4574DE631D93999B0059B062 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4574DE661D93999B0059B062 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4574DE681D93999B0059B062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4574DE6D1D93999C0059B062 /* 闭包的使用Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "闭包的使用Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4574DE711D93999C0059B062 /* _____Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_____Tests.swift"; sourceTree = "<group>"; };
+		4574DE731D93999C0059B062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4574DE781D93999C0059B062 /* 闭包的使用UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "闭包的使用UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4574DE7C1D93999C0059B062 /* _____UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_____UITests.swift"; sourceTree = "<group>"; };
+		4574DE7E1D93999C0059B062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4574DE881D9399B60059B062 /* HttpTools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HttpTools.swift; sourceTree = "<group>"; };
+		4574DE8E1D93A8700059B062 /* 自定义log.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "自定义log.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4574DE901D93A8700059B062 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4574DE921D93A8700059B062 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4574DE951D93A8700059B062 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4574DE971D93A8700059B062 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4574DE9A1D93A8700059B062 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4574DE9C1D93A8700059B062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4574DEA11D93A8700059B062 /* 自定义logTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "自定义logTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4574DEA51D93A8700059B062 /* ___logTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "___logTests.swift"; sourceTree = "<group>"; };
+		4574DEA71D93A8700059B062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4574DEAC1D93A8700059B062 /* 自定义logUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "自定义logUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4574DEB01D93A8700059B062 /* ___logUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "___logUITests.swift"; sourceTree = "<group>"; };
+		4574DEB21D93A8700059B062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +209,90 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		4574DDF31D938F0E0059B062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE061D938F0E0059B062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE111D938F0E0059B062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE251D9396CA0059B062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE381D9396CA0059B062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE431D9396CA0059B062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE571D93999B0059B062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE6A1D93999C0059B062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE751D93999C0059B062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE8B1D93A8700059B062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE9E1D93A8700059B062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DEA91D93A8700059B062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -80,6 +302,18 @@
 				4574DDC31D938D040059B062 /* SwiftPractise */,
 				4574DDD81D938D040059B062 /* SwiftPractiseTests */,
 				4574DDE31D938D040059B062 /* SwiftPractiseUITests */,
+				4574DDF71D938F0E0059B062 /* TableView的使用 */,
+				4574DE0C1D938F0E0059B062 /* TableView的使用Tests */,
+				4574DE171D938F0E0059B062 /* TableView的使用UITests */,
+				4574DE291D9396CA0059B062 /* TableView的使用简洁的写法 */,
+				4574DE3E1D9396CA0059B062 /* TableView的使用简洁的写法Tests */,
+				4574DE491D9396CA0059B062 /* TableView的使用简洁的写法UITests */,
+				4574DE5B1D93999B0059B062 /* 闭包的使用 */,
+				4574DE701D93999C0059B062 /* 闭包的使用Tests */,
+				4574DE7B1D93999C0059B062 /* 闭包的使用UITests */,
+				4574DE8F1D93A8700059B062 /* 自定义log */,
+				4574DEA41D93A8700059B062 /* 自定义logTests */,
+				4574DEAF1D93A8700059B062 /* 自定义logUITests */,
 				4574DDC21D938D040059B062 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -90,6 +324,18 @@
 				4574DDC11D938D040059B062 /* SwiftPractise.app */,
 				4574DDD51D938D040059B062 /* SwiftPractiseTests.xctest */,
 				4574DDE01D938D040059B062 /* SwiftPractiseUITests.xctest */,
+				4574DDF61D938F0E0059B062 /* TableView的使用.app */,
+				4574DE091D938F0E0059B062 /* TableView的使用Tests.xctest */,
+				4574DE141D938F0E0059B062 /* TableView的使用UITests.xctest */,
+				4574DE281D9396CA0059B062 /* TableView的使用简洁的写法.app */,
+				4574DE3B1D9396CA0059B062 /* TableView的使用简洁的写法Tests.xctest */,
+				4574DE461D9396CA0059B062 /* TableView的使用简洁的写法UITests.xctest */,
+				4574DE5A1D93999B0059B062 /* 闭包的使用.app */,
+				4574DE6D1D93999C0059B062 /* 闭包的使用Tests.xctest */,
+				4574DE781D93999C0059B062 /* 闭包的使用UITests.xctest */,
+				4574DE8E1D93A8700059B062 /* 自定义log.app */,
+				4574DEA11D93A8700059B062 /* 自定义logTests.xctest */,
+				4574DEAC1D93A8700059B062 /* 自定义logUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -123,6 +369,131 @@
 				4574DDE61D938D040059B062 /* Info.plist */,
 			);
 			path = SwiftPractiseUITests;
+			sourceTree = "<group>";
+		};
+		4574DDF71D938F0E0059B062 /* TableView的使用 */ = {
+			isa = PBXGroup;
+			children = (
+				4574DDF81D938F0E0059B062 /* AppDelegate.swift */,
+				4574DDFA1D938F0E0059B062 /* ViewController.swift */,
+				4574DDFC1D938F0E0059B062 /* Main.storyboard */,
+				4574DDFF1D938F0E0059B062 /* Assets.xcassets */,
+				4574DE011D938F0E0059B062 /* LaunchScreen.storyboard */,
+				4574DE041D938F0E0059B062 /* Info.plist */,
+			);
+			path = "TableView的使用";
+			sourceTree = "<group>";
+		};
+		4574DE0C1D938F0E0059B062 /* TableView的使用Tests */ = {
+			isa = PBXGroup;
+			children = (
+				4574DE0D1D938F0E0059B062 /* TableView___Tests.swift */,
+				4574DE0F1D938F0E0059B062 /* Info.plist */,
+			);
+			path = "TableView的使用Tests";
+			sourceTree = "<group>";
+		};
+		4574DE171D938F0E0059B062 /* TableView的使用UITests */ = {
+			isa = PBXGroup;
+			children = (
+				4574DE181D938F0E0059B062 /* TableView___UITests.swift */,
+				4574DE1A1D938F0E0059B062 /* Info.plist */,
+			);
+			path = "TableView的使用UITests";
+			sourceTree = "<group>";
+		};
+		4574DE291D9396CA0059B062 /* TableView的使用简洁的写法 */ = {
+			isa = PBXGroup;
+			children = (
+				4574DE2A1D9396CA0059B062 /* AppDelegate.swift */,
+				4574DE2C1D9396CA0059B062 /* ViewController.swift */,
+				4574DE2E1D9396CA0059B062 /* Main.storyboard */,
+				4574DE311D9396CA0059B062 /* Assets.xcassets */,
+				4574DE331D9396CA0059B062 /* LaunchScreen.storyboard */,
+				4574DE361D9396CA0059B062 /* Info.plist */,
+			);
+			path = "TableView的使用简洁的写法";
+			sourceTree = "<group>";
+		};
+		4574DE3E1D9396CA0059B062 /* TableView的使用简洁的写法Tests */ = {
+			isa = PBXGroup;
+			children = (
+				4574DE3F1D9396CA0059B062 /* TableView________Tests.swift */,
+				4574DE411D9396CA0059B062 /* Info.plist */,
+			);
+			path = "TableView的使用简洁的写法Tests";
+			sourceTree = "<group>";
+		};
+		4574DE491D9396CA0059B062 /* TableView的使用简洁的写法UITests */ = {
+			isa = PBXGroup;
+			children = (
+				4574DE4A1D9396CA0059B062 /* TableView________UITests.swift */,
+				4574DE4C1D9396CA0059B062 /* Info.plist */,
+			);
+			path = "TableView的使用简洁的写法UITests";
+			sourceTree = "<group>";
+		};
+		4574DE5B1D93999B0059B062 /* 闭包的使用 */ = {
+			isa = PBXGroup;
+			children = (
+				4574DE5C1D93999B0059B062 /* AppDelegate.swift */,
+				4574DE5E1D93999B0059B062 /* ViewController.swift */,
+				4574DE881D9399B60059B062 /* HttpTools.swift */,
+				4574DE601D93999B0059B062 /* Main.storyboard */,
+				4574DE631D93999B0059B062 /* Assets.xcassets */,
+				4574DE651D93999B0059B062 /* LaunchScreen.storyboard */,
+				4574DE681D93999B0059B062 /* Info.plist */,
+			);
+			path = "闭包的使用";
+			sourceTree = "<group>";
+		};
+		4574DE701D93999C0059B062 /* 闭包的使用Tests */ = {
+			isa = PBXGroup;
+			children = (
+				4574DE711D93999C0059B062 /* _____Tests.swift */,
+				4574DE731D93999C0059B062 /* Info.plist */,
+			);
+			path = "闭包的使用Tests";
+			sourceTree = "<group>";
+		};
+		4574DE7B1D93999C0059B062 /* 闭包的使用UITests */ = {
+			isa = PBXGroup;
+			children = (
+				4574DE7C1D93999C0059B062 /* _____UITests.swift */,
+				4574DE7E1D93999C0059B062 /* Info.plist */,
+			);
+			path = "闭包的使用UITests";
+			sourceTree = "<group>";
+		};
+		4574DE8F1D93A8700059B062 /* 自定义log */ = {
+			isa = PBXGroup;
+			children = (
+				4574DE901D93A8700059B062 /* AppDelegate.swift */,
+				4574DE921D93A8700059B062 /* ViewController.swift */,
+				4574DE941D93A8700059B062 /* Main.storyboard */,
+				4574DE971D93A8700059B062 /* Assets.xcassets */,
+				4574DE991D93A8700059B062 /* LaunchScreen.storyboard */,
+				4574DE9C1D93A8700059B062 /* Info.plist */,
+			);
+			path = "自定义log";
+			sourceTree = "<group>";
+		};
+		4574DEA41D93A8700059B062 /* 自定义logTests */ = {
+			isa = PBXGroup;
+			children = (
+				4574DEA51D93A8700059B062 /* ___logTests.swift */,
+				4574DEA71D93A8700059B062 /* Info.plist */,
+			);
+			path = "自定义logTests";
+			sourceTree = "<group>";
+		};
+		4574DEAF1D93A8700059B062 /* 自定义logUITests */ = {
+			isa = PBXGroup;
+			children = (
+				4574DEB01D93A8700059B062 /* ___logUITests.swift */,
+				4574DEB21D93A8700059B062 /* Info.plist */,
+			);
+			path = "自定义logUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -181,6 +552,218 @@
 			productReference = 4574DDE01D938D040059B062 /* SwiftPractiseUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
+		4574DDF51D938F0E0059B062 /* TableView的使用 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4574DE1B1D938F0E0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用" */;
+			buildPhases = (
+				4574DDF21D938F0E0059B062 /* Sources */,
+				4574DDF31D938F0E0059B062 /* Frameworks */,
+				4574DDF41D938F0E0059B062 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "TableView的使用";
+			productName = "TableView的使用";
+			productReference = 4574DDF61D938F0E0059B062 /* TableView的使用.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4574DE081D938F0E0059B062 /* TableView的使用Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4574DE1E1D938F0E0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用Tests" */;
+			buildPhases = (
+				4574DE051D938F0E0059B062 /* Sources */,
+				4574DE061D938F0E0059B062 /* Frameworks */,
+				4574DE071D938F0E0059B062 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4574DE0B1D938F0E0059B062 /* PBXTargetDependency */,
+			);
+			name = "TableView的使用Tests";
+			productName = "TableView的使用Tests";
+			productReference = 4574DE091D938F0E0059B062 /* TableView的使用Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		4574DE131D938F0E0059B062 /* TableView的使用UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4574DE211D938F0E0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用UITests" */;
+			buildPhases = (
+				4574DE101D938F0E0059B062 /* Sources */,
+				4574DE111D938F0E0059B062 /* Frameworks */,
+				4574DE121D938F0E0059B062 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4574DE161D938F0E0059B062 /* PBXTargetDependency */,
+			);
+			name = "TableView的使用UITests";
+			productName = "TableView的使用UITests";
+			productReference = 4574DE141D938F0E0059B062 /* TableView的使用UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		4574DE271D9396CA0059B062 /* TableView的使用简洁的写法 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4574DE4D1D9396CA0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用简洁的写法" */;
+			buildPhases = (
+				4574DE241D9396CA0059B062 /* Sources */,
+				4574DE251D9396CA0059B062 /* Frameworks */,
+				4574DE261D9396CA0059B062 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "TableView的使用简洁的写法";
+			productName = "TableView的使用简洁的写法";
+			productReference = 4574DE281D9396CA0059B062 /* TableView的使用简洁的写法.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4574DE3A1D9396CA0059B062 /* TableView的使用简洁的写法Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4574DE501D9396CA0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用简洁的写法Tests" */;
+			buildPhases = (
+				4574DE371D9396CA0059B062 /* Sources */,
+				4574DE381D9396CA0059B062 /* Frameworks */,
+				4574DE391D9396CA0059B062 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4574DE3D1D9396CA0059B062 /* PBXTargetDependency */,
+			);
+			name = "TableView的使用简洁的写法Tests";
+			productName = "TableView的使用简洁的写法Tests";
+			productReference = 4574DE3B1D9396CA0059B062 /* TableView的使用简洁的写法Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		4574DE451D9396CA0059B062 /* TableView的使用简洁的写法UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4574DE531D9396CA0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用简洁的写法UITests" */;
+			buildPhases = (
+				4574DE421D9396CA0059B062 /* Sources */,
+				4574DE431D9396CA0059B062 /* Frameworks */,
+				4574DE441D9396CA0059B062 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4574DE481D9396CA0059B062 /* PBXTargetDependency */,
+			);
+			name = "TableView的使用简洁的写法UITests";
+			productName = "TableView的使用简洁的写法UITests";
+			productReference = 4574DE461D9396CA0059B062 /* TableView的使用简洁的写法UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		4574DE591D93999B0059B062 /* 闭包的使用 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4574DE7F1D93999C0059B062 /* Build configuration list for PBXNativeTarget "闭包的使用" */;
+			buildPhases = (
+				4574DE561D93999B0059B062 /* Sources */,
+				4574DE571D93999B0059B062 /* Frameworks */,
+				4574DE581D93999B0059B062 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "闭包的使用";
+			productName = "闭包的使用";
+			productReference = 4574DE5A1D93999B0059B062 /* 闭包的使用.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4574DE6C1D93999C0059B062 /* 闭包的使用Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4574DE821D93999C0059B062 /* Build configuration list for PBXNativeTarget "闭包的使用Tests" */;
+			buildPhases = (
+				4574DE691D93999C0059B062 /* Sources */,
+				4574DE6A1D93999C0059B062 /* Frameworks */,
+				4574DE6B1D93999C0059B062 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4574DE6F1D93999C0059B062 /* PBXTargetDependency */,
+			);
+			name = "闭包的使用Tests";
+			productName = "闭包的使用Tests";
+			productReference = 4574DE6D1D93999C0059B062 /* 闭包的使用Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		4574DE771D93999C0059B062 /* 闭包的使用UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4574DE851D93999C0059B062 /* Build configuration list for PBXNativeTarget "闭包的使用UITests" */;
+			buildPhases = (
+				4574DE741D93999C0059B062 /* Sources */,
+				4574DE751D93999C0059B062 /* Frameworks */,
+				4574DE761D93999C0059B062 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4574DE7A1D93999C0059B062 /* PBXTargetDependency */,
+			);
+			name = "闭包的使用UITests";
+			productName = "闭包的使用UITests";
+			productReference = 4574DE781D93999C0059B062 /* 闭包的使用UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		4574DE8D1D93A8700059B062 /* 自定义log */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4574DEB31D93A8700059B062 /* Build configuration list for PBXNativeTarget "自定义log" */;
+			buildPhases = (
+				4574DE8A1D93A8700059B062 /* Sources */,
+				4574DE8B1D93A8700059B062 /* Frameworks */,
+				4574DE8C1D93A8700059B062 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "自定义log";
+			productName = "自定义log";
+			productReference = 4574DE8E1D93A8700059B062 /* 自定义log.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4574DEA01D93A8700059B062 /* 自定义logTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4574DEB61D93A8700059B062 /* Build configuration list for PBXNativeTarget "自定义logTests" */;
+			buildPhases = (
+				4574DE9D1D93A8700059B062 /* Sources */,
+				4574DE9E1D93A8700059B062 /* Frameworks */,
+				4574DE9F1D93A8700059B062 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4574DEA31D93A8700059B062 /* PBXTargetDependency */,
+			);
+			name = "自定义logTests";
+			productName = "自定义logTests";
+			productReference = 4574DEA11D93A8700059B062 /* 自定义logTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		4574DEAB1D93A8700059B062 /* 自定义logUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4574DEB91D93A8700059B062 /* Build configuration list for PBXNativeTarget "自定义logUITests" */;
+			buildPhases = (
+				4574DEA81D93A8700059B062 /* Sources */,
+				4574DEA91D93A8700059B062 /* Frameworks */,
+				4574DEAA1D93A8700059B062 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4574DEAE1D93A8700059B062 /* PBXTargetDependency */,
+			);
+			name = "自定义logUITests";
+			productName = "自定义logUITests";
+			productReference = 4574DEAC1D93A8700059B062 /* 自定义logUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -205,6 +788,62 @@
 						ProvisioningStyle = Automatic;
 						TestTargetID = 4574DDC01D938D030059B062;
 					};
+					4574DDF51D938F0E0059B062 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
+					4574DE081D938F0E0059B062 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 4574DDF51D938F0E0059B062;
+					};
+					4574DE131D938F0E0059B062 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 4574DDF51D938F0E0059B062;
+					};
+					4574DE271D9396CA0059B062 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
+					4574DE3A1D9396CA0059B062 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 4574DE271D9396CA0059B062;
+					};
+					4574DE451D9396CA0059B062 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 4574DE271D9396CA0059B062;
+					};
+					4574DE591D93999B0059B062 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
+					4574DE6C1D93999C0059B062 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 4574DE591D93999B0059B062;
+					};
+					4574DE771D93999C0059B062 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 4574DE591D93999B0059B062;
+					};
+					4574DE8D1D93A8700059B062 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
+					4574DEA01D93A8700059B062 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 4574DE8D1D93A8700059B062;
+					};
+					4574DEAB1D93A8700059B062 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 4574DE8D1D93A8700059B062;
+					};
 				};
 			};
 			buildConfigurationList = 4574DDBC1D938D030059B062 /* Build configuration list for PBXProject "SwiftPractise" */;
@@ -223,6 +862,18 @@
 				4574DDC01D938D030059B062 /* SwiftPractise */,
 				4574DDD41D938D040059B062 /* SwiftPractiseTests */,
 				4574DDDF1D938D040059B062 /* SwiftPractiseUITests */,
+				4574DDF51D938F0E0059B062 /* TableView的使用 */,
+				4574DE081D938F0E0059B062 /* TableView的使用Tests */,
+				4574DE131D938F0E0059B062 /* TableView的使用UITests */,
+				4574DE271D9396CA0059B062 /* TableView的使用简洁的写法 */,
+				4574DE3A1D9396CA0059B062 /* TableView的使用简洁的写法Tests */,
+				4574DE451D9396CA0059B062 /* TableView的使用简洁的写法UITests */,
+				4574DE591D93999B0059B062 /* 闭包的使用 */,
+				4574DE6C1D93999C0059B062 /* 闭包的使用Tests */,
+				4574DE771D93999C0059B062 /* 闭包的使用UITests */,
+				4574DE8D1D93A8700059B062 /* 自定义log */,
+				4574DEA01D93A8700059B062 /* 自定义logTests */,
+				4574DEAB1D93A8700059B062 /* 自定义logUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -246,6 +897,102 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		4574DDDE1D938D040059B062 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DDF41D938F0E0059B062 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DE031D938F0E0059B062 /* LaunchScreen.storyboard in Resources */,
+				4574DE001D938F0E0059B062 /* Assets.xcassets in Resources */,
+				4574DDFE1D938F0E0059B062 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE071D938F0E0059B062 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE121D938F0E0059B062 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE261D9396CA0059B062 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DE351D9396CA0059B062 /* LaunchScreen.storyboard in Resources */,
+				4574DE321D9396CA0059B062 /* Assets.xcassets in Resources */,
+				4574DE301D9396CA0059B062 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE391D9396CA0059B062 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE441D9396CA0059B062 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE581D93999B0059B062 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DE671D93999B0059B062 /* LaunchScreen.storyboard in Resources */,
+				4574DE641D93999B0059B062 /* Assets.xcassets in Resources */,
+				4574DE621D93999B0059B062 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE6B1D93999C0059B062 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE761D93999C0059B062 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE8C1D93A8700059B062 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DE9B1D93A8700059B062 /* LaunchScreen.storyboard in Resources */,
+				4574DE981D93A8700059B062 /* Assets.xcassets in Resources */,
+				4574DE961D93A8700059B062 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE9F1D93A8700059B062 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DEAA1D93A8700059B062 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -280,6 +1027,107 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		4574DDF21D938F0E0059B062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DDFB1D938F0E0059B062 /* ViewController.swift in Sources */,
+				4574DDF91D938F0E0059B062 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE051D938F0E0059B062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DE0E1D938F0E0059B062 /* TableView___Tests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE101D938F0E0059B062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DE191D938F0E0059B062 /* TableView___UITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE241D9396CA0059B062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DE2D1D9396CA0059B062 /* ViewController.swift in Sources */,
+				4574DE2B1D9396CA0059B062 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE371D9396CA0059B062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DE401D9396CA0059B062 /* TableView________Tests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE421D9396CA0059B062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DE4B1D9396CA0059B062 /* TableView________UITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE561D93999B0059B062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DE891D9399B60059B062 /* HttpTools.swift in Sources */,
+				4574DE5F1D93999B0059B062 /* ViewController.swift in Sources */,
+				4574DE5D1D93999B0059B062 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE691D93999C0059B062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DE721D93999C0059B062 /* _____Tests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE741D93999C0059B062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DE7D1D93999C0059B062 /* _____UITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE8A1D93A8700059B062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DE931D93A8700059B062 /* ViewController.swift in Sources */,
+				4574DE911D93A8700059B062 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DE9D1D93A8700059B062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DEA61D93A8700059B062 /* ___logTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4574DEA81D93A8700059B062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4574DEB11D93A8700059B062 /* ___logUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -292,6 +1140,46 @@
 			isa = PBXTargetDependency;
 			target = 4574DDC01D938D030059B062 /* SwiftPractise */;
 			targetProxy = 4574DDE11D938D040059B062 /* PBXContainerItemProxy */;
+		};
+		4574DE0B1D938F0E0059B062 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4574DDF51D938F0E0059B062 /* TableView的使用 */;
+			targetProxy = 4574DE0A1D938F0E0059B062 /* PBXContainerItemProxy */;
+		};
+		4574DE161D938F0E0059B062 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4574DDF51D938F0E0059B062 /* TableView的使用 */;
+			targetProxy = 4574DE151D938F0E0059B062 /* PBXContainerItemProxy */;
+		};
+		4574DE3D1D9396CA0059B062 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4574DE271D9396CA0059B062 /* TableView的使用简洁的写法 */;
+			targetProxy = 4574DE3C1D9396CA0059B062 /* PBXContainerItemProxy */;
+		};
+		4574DE481D9396CA0059B062 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4574DE271D9396CA0059B062 /* TableView的使用简洁的写法 */;
+			targetProxy = 4574DE471D9396CA0059B062 /* PBXContainerItemProxy */;
+		};
+		4574DE6F1D93999C0059B062 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4574DE591D93999B0059B062 /* 闭包的使用 */;
+			targetProxy = 4574DE6E1D93999C0059B062 /* PBXContainerItemProxy */;
+		};
+		4574DE7A1D93999C0059B062 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4574DE591D93999B0059B062 /* 闭包的使用 */;
+			targetProxy = 4574DE791D93999C0059B062 /* PBXContainerItemProxy */;
+		};
+		4574DEA31D93A8700059B062 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4574DE8D1D93A8700059B062 /* 自定义log */;
+			targetProxy = 4574DEA21D93A8700059B062 /* PBXContainerItemProxy */;
+		};
+		4574DEAE1D93A8700059B062 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4574DE8D1D93A8700059B062 /* 自定义log */;
+			targetProxy = 4574DEAD1D93A8700059B062 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -308,6 +1196,70 @@
 			isa = PBXVariantGroup;
 			children = (
 				4574DDCE1D938D040059B062 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		4574DDFC1D938F0E0059B062 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4574DDFD1D938F0E0059B062 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4574DE011D938F0E0059B062 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4574DE021D938F0E0059B062 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		4574DE2E1D9396CA0059B062 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4574DE2F1D9396CA0059B062 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4574DE331D9396CA0059B062 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4574DE341D9396CA0059B062 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		4574DE601D93999B0059B062 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4574DE611D93999B0059B062 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4574DE651D93999B0059B062 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4574DE661D93999B0059B062 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		4574DE941D93A8700059B062 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4574DE951D93A8700059B062 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4574DE991D93A8700059B062 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4574DE9A1D93A8700059B062 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -488,6 +1440,318 @@
 			};
 			name = Release;
 		};
+		4574DE1C1D938F0E0059B062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "TableView的使用/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.TableView---";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		4574DE1D1D938F0E0059B062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "TableView的使用/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.TableView---";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		4574DE1F1D938F0E0059B062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "TableView的使用Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.TableView---Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TableView的使用.app/TableView的使用";
+			};
+			name = Debug;
+		};
+		4574DE201D938F0E0059B062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "TableView的使用Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.TableView---Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TableView的使用.app/TableView的使用";
+			};
+			name = Release;
+		};
+		4574DE221D938F0E0059B062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "TableView的使用UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.TableView---UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "TableView的使用";
+			};
+			name = Debug;
+		};
+		4574DE231D938F0E0059B062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "TableView的使用UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.TableView---UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "TableView的使用";
+			};
+			name = Release;
+		};
+		4574DE4E1D9396CA0059B062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "TableView的使用简洁的写法/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.TableView--------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		4574DE4F1D9396CA0059B062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "TableView的使用简洁的写法/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.TableView--------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		4574DE511D9396CA0059B062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "TableView的使用简洁的写法Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.TableView--------Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TableView的使用简洁的写法.app/TableView的使用简洁的写法";
+			};
+			name = Debug;
+		};
+		4574DE521D9396CA0059B062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "TableView的使用简洁的写法Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.TableView--------Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TableView的使用简洁的写法.app/TableView的使用简洁的写法";
+			};
+			name = Release;
+		};
+		4574DE541D9396CA0059B062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "TableView的使用简洁的写法UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.TableView--------UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "TableView的使用简洁的写法";
+			};
+			name = Debug;
+		};
+		4574DE551D9396CA0059B062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "TableView的使用简洁的写法UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.TableView--------UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "TableView的使用简洁的写法";
+			};
+			name = Release;
+		};
+		4574DE801D93999C0059B062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "闭包的使用/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.-----";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		4574DE811D93999C0059B062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "闭包的使用/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.-----";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		4574DE831D93999C0059B062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "闭包的使用Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.-----Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/闭包的使用.app/闭包的使用";
+			};
+			name = Debug;
+		};
+		4574DE841D93999C0059B062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "闭包的使用Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.-----Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/闭包的使用.app/闭包的使用";
+			};
+			name = Release;
+		};
+		4574DE861D93999C0059B062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "闭包的使用UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.-----UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "闭包的使用";
+			};
+			name = Debug;
+		};
+		4574DE871D93999C0059B062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "闭包的使用UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.-----UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "闭包的使用";
+			};
+			name = Release;
+		};
+		4574DEB41D93A8700059B062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "自定义log/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.---log";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		4574DEB51D93A8700059B062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "自定义log/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.---log";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		4574DEB71D93A8700059B062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "自定义logTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.---logTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/自定义log.app/自定义log";
+			};
+			name = Debug;
+		};
+		4574DEB81D93A8700059B062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "自定义logTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.---logTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/自定义log.app/自定义log";
+			};
+			name = Release;
+		};
+		4574DEBA1D93A8700059B062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "自定义logUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.---logUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "自定义log";
+			};
+			name = Debug;
+		};
+		4574DEBB1D93A8700059B062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "自定义logUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.---logUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "自定义log";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -521,6 +1785,102 @@
 			buildConfigurations = (
 				4574DDF01D938D040059B062 /* Debug */,
 				4574DDF11D938D040059B062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4574DE1B1D938F0E0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4574DE1C1D938F0E0059B062 /* Debug */,
+				4574DE1D1D938F0E0059B062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4574DE1E1D938F0E0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4574DE1F1D938F0E0059B062 /* Debug */,
+				4574DE201D938F0E0059B062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4574DE211D938F0E0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4574DE221D938F0E0059B062 /* Debug */,
+				4574DE231D938F0E0059B062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4574DE4D1D9396CA0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用简洁的写法" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4574DE4E1D9396CA0059B062 /* Debug */,
+				4574DE4F1D9396CA0059B062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4574DE501D9396CA0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用简洁的写法Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4574DE511D9396CA0059B062 /* Debug */,
+				4574DE521D9396CA0059B062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4574DE531D9396CA0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用简洁的写法UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4574DE541D9396CA0059B062 /* Debug */,
+				4574DE551D9396CA0059B062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4574DE7F1D93999C0059B062 /* Build configuration list for PBXNativeTarget "闭包的使用" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4574DE801D93999C0059B062 /* Debug */,
+				4574DE811D93999C0059B062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4574DE821D93999C0059B062 /* Build configuration list for PBXNativeTarget "闭包的使用Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4574DE831D93999C0059B062 /* Debug */,
+				4574DE841D93999C0059B062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4574DE851D93999C0059B062 /* Build configuration list for PBXNativeTarget "闭包的使用UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4574DE861D93999C0059B062 /* Debug */,
+				4574DE871D93999C0059B062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4574DEB31D93A8700059B062 /* Build configuration list for PBXNativeTarget "自定义log" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4574DEB41D93A8700059B062 /* Debug */,
+				4574DEB51D93A8700059B062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4574DEB61D93A8700059B062 /* Build configuration list for PBXNativeTarget "自定义logTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4574DEB71D93A8700059B062 /* Debug */,
+				4574DEB81D93A8700059B062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		4574DEB91D93A8700059B062 /* Build configuration list for PBXNativeTarget "自定义logUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4574DEBA1D93A8700059B062 /* Debug */,
+				4574DEBB1D93A8700059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};

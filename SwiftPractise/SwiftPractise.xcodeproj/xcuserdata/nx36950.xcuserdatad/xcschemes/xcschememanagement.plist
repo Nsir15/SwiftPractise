@@ -9,6 +9,26 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>TableView的使用.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>TableView的使用简洁的写法.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>自定义log.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>闭包的使用.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -23,6 +43,66 @@
 			<true/>
 		</dict>
 		<key>4574DDDF1D938D040059B062</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4574DDF51D938F0E0059B062</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4574DE081D938F0E0059B062</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4574DE131D938F0E0059B062</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4574DE271D9396CA0059B062</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4574DE3A1D9396CA0059B062</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4574DE451D9396CA0059B062</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4574DE591D93999B0059B062</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4574DE6C1D93999C0059B062</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4574DE771D93999C0059B062</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4574DE8D1D93A8700059B062</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4574DEA01D93A8700059B062</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4574DEAB1D93A8700059B062</key>
 		<dict>
 			<key>primary</key>
 			<true/>
