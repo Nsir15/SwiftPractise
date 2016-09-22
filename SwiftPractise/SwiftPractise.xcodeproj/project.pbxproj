@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		453BBD3C1D94023700A4E138 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 453BBD3B1D94023700A4E138 /* AppDelegate.swift */; };
+		453BBD3E1D94023700A4E138 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 453BBD3D1D94023700A4E138 /* ViewController.swift */; };
+		453BBD411D94023700A4E138 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 453BBD3F1D94023700A4E138 /* Main.storyboard */; };
+		453BBD431D94023700A4E138 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 453BBD421D94023700A4E138 /* Assets.xcassets */; };
+		453BBD461D94023700A4E138 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 453BBD441D94023700A4E138 /* LaunchScreen.storyboard */; };
+		453BBD511D94023700A4E138 /* Try____Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 453BBD501D94023700A4E138 /* Try____Tests.swift */; };
+		453BBD5C1D94023700A4E138 /* Try____UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 453BBD5B1D94023700A4E138 /* Try____UITests.swift */; };
 		4574DDC51D938D040059B062 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DDC41D938D040059B062 /* AppDelegate.swift */; };
 		4574DDC71D938D040059B062 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4574DDC61D938D040059B062 /* ViewController.swift */; };
 		4574DDCA1D938D040059B062 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4574DDC81D938D040059B062 /* Main.storyboard */; };
@@ -46,6 +53,20 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		453BBD4D1D94023700A4E138 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4574DDB91D938D030059B062 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 453BBD381D94023700A4E138;
+			remoteInfo = "Try异常处理";
+		};
+		453BBD581D94023700A4E138 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4574DDB91D938D030059B062 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 453BBD381D94023700A4E138;
+			remoteInfo = "Try异常处理";
+		};
 		4574DDD61D938D040059B062 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 4574DDB91D938D030059B062 /* Project object */;
@@ -119,6 +140,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		453BBD391D94023700A4E138 /* Try异常处理.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Try异常处理.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		453BBD3B1D94023700A4E138 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		453BBD3D1D94023700A4E138 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		453BBD401D94023700A4E138 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		453BBD421D94023700A4E138 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		453BBD451D94023700A4E138 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		453BBD471D94023700A4E138 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		453BBD4C1D94023700A4E138 /* Try异常处理Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Try异常处理Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		453BBD501D94023700A4E138 /* Try____Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Try____Tests.swift"; sourceTree = "<group>"; };
+		453BBD521D94023700A4E138 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		453BBD571D94023700A4E138 /* Try异常处理UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Try异常处理UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		453BBD5B1D94023700A4E138 /* Try____UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Try____UITests.swift"; sourceTree = "<group>"; };
+		453BBD5D1D94023700A4E138 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4574DDC11D938D040059B062 /* SwiftPractise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftPractise.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4574DDC41D938D040059B062 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4574DDC61D938D040059B062 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -188,6 +222,27 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		453BBD361D94023700A4E138 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		453BBD491D94023700A4E138 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		453BBD541D94023700A4E138 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		4574DDBE1D938D030059B062 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -296,6 +351,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		453BBD3A1D94023700A4E138 /* Try异常处理 */ = {
+			isa = PBXGroup;
+			children = (
+				453BBD3B1D94023700A4E138 /* AppDelegate.swift */,
+				453BBD3D1D94023700A4E138 /* ViewController.swift */,
+				453BBD3F1D94023700A4E138 /* Main.storyboard */,
+				453BBD421D94023700A4E138 /* Assets.xcassets */,
+				453BBD441D94023700A4E138 /* LaunchScreen.storyboard */,
+				453BBD471D94023700A4E138 /* Info.plist */,
+			);
+			path = "Try异常处理";
+			sourceTree = "<group>";
+		};
+		453BBD4F1D94023700A4E138 /* Try异常处理Tests */ = {
+			isa = PBXGroup;
+			children = (
+				453BBD501D94023700A4E138 /* Try____Tests.swift */,
+				453BBD521D94023700A4E138 /* Info.plist */,
+			);
+			path = "Try异常处理Tests";
+			sourceTree = "<group>";
+		};
+		453BBD5A1D94023700A4E138 /* Try异常处理UITests */ = {
+			isa = PBXGroup;
+			children = (
+				453BBD5B1D94023700A4E138 /* Try____UITests.swift */,
+				453BBD5D1D94023700A4E138 /* Info.plist */,
+			);
+			path = "Try异常处理UITests";
+			sourceTree = "<group>";
+		};
 		4574DDB81D938D030059B062 = {
 			isa = PBXGroup;
 			children = (
@@ -314,6 +400,9 @@
 				4574DE8F1D93A8700059B062 /* 自定义log */,
 				4574DEA41D93A8700059B062 /* 自定义logTests */,
 				4574DEAF1D93A8700059B062 /* 自定义logUITests */,
+				453BBD3A1D94023700A4E138 /* Try异常处理 */,
+				453BBD4F1D94023700A4E138 /* Try异常处理Tests */,
+				453BBD5A1D94023700A4E138 /* Try异常处理UITests */,
 				4574DDC21D938D040059B062 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -336,6 +425,9 @@
 				4574DE8E1D93A8700059B062 /* 自定义log.app */,
 				4574DEA11D93A8700059B062 /* 自定义logTests.xctest */,
 				4574DEAC1D93A8700059B062 /* 自定义logUITests.xctest */,
+				453BBD391D94023700A4E138 /* Try异常处理.app */,
+				453BBD4C1D94023700A4E138 /* Try异常处理Tests.xctest */,
+				453BBD571D94023700A4E138 /* Try异常处理UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -499,6 +591,59 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		453BBD381D94023700A4E138 /* Try异常处理 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 453BBD641D94023700A4E138 /* Build configuration list for PBXNativeTarget "Try异常处理" */;
+			buildPhases = (
+				453BBD351D94023700A4E138 /* Sources */,
+				453BBD361D94023700A4E138 /* Frameworks */,
+				453BBD371D94023700A4E138 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Try异常处理";
+			productName = "Try异常处理";
+			productReference = 453BBD391D94023700A4E138 /* Try异常处理.app */;
+			productType = "com.apple.product-type.application";
+		};
+		453BBD4B1D94023700A4E138 /* Try异常处理Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 453BBD651D94023700A4E138 /* Build configuration list for PBXNativeTarget "Try异常处理Tests" */;
+			buildPhases = (
+				453BBD481D94023700A4E138 /* Sources */,
+				453BBD491D94023700A4E138 /* Frameworks */,
+				453BBD4A1D94023700A4E138 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				453BBD4E1D94023700A4E138 /* PBXTargetDependency */,
+			);
+			name = "Try异常处理Tests";
+			productName = "Try异常处理Tests";
+			productReference = 453BBD4C1D94023700A4E138 /* Try异常处理Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		453BBD561D94023700A4E138 /* Try异常处理UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 453BBD661D94023700A4E138 /* Build configuration list for PBXNativeTarget "Try异常处理UITests" */;
+			buildPhases = (
+				453BBD531D94023700A4E138 /* Sources */,
+				453BBD541D94023700A4E138 /* Frameworks */,
+				453BBD551D94023700A4E138 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				453BBD591D94023700A4E138 /* PBXTargetDependency */,
+			);
+			name = "Try异常处理UITests";
+			productName = "Try异常处理UITests";
+			productReference = 453BBD571D94023700A4E138 /* Try异常处理UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
 		4574DDC01D938D030059B062 /* SwiftPractise */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4574DDE91D938D040059B062 /* Build configuration list for PBXNativeTarget "SwiftPractise" */;
@@ -774,6 +919,20 @@
 				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = nx36950;
 				TargetAttributes = {
+					453BBD381D94023700A4E138 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
+					453BBD4B1D94023700A4E138 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 453BBD381D94023700A4E138;
+					};
+					453BBD561D94023700A4E138 = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 453BBD381D94023700A4E138;
+					};
 					4574DDC01D938D030059B062 = {
 						CreatedOnToolsVersion = 8.0;
 						ProvisioningStyle = Automatic;
@@ -874,11 +1033,38 @@
 				4574DE8D1D93A8700059B062 /* 自定义log */,
 				4574DEA01D93A8700059B062 /* 自定义logTests */,
 				4574DEAB1D93A8700059B062 /* 自定义logUITests */,
+				453BBD381D94023700A4E138 /* Try异常处理 */,
+				453BBD4B1D94023700A4E138 /* Try异常处理Tests */,
+				453BBD561D94023700A4E138 /* Try异常处理UITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		453BBD371D94023700A4E138 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				453BBD461D94023700A4E138 /* LaunchScreen.storyboard in Resources */,
+				453BBD431D94023700A4E138 /* Assets.xcassets in Resources */,
+				453BBD411D94023700A4E138 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		453BBD4A1D94023700A4E138 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		453BBD551D94023700A4E138 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		4574DDBF1D938D030059B062 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1002,6 +1188,31 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		453BBD351D94023700A4E138 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				453BBD3E1D94023700A4E138 /* ViewController.swift in Sources */,
+				453BBD3C1D94023700A4E138 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		453BBD481D94023700A4E138 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				453BBD511D94023700A4E138 /* Try____Tests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		453BBD531D94023700A4E138 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				453BBD5C1D94023700A4E138 /* Try____UITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		4574DDBD1D938D030059B062 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1131,6 +1342,16 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		453BBD4E1D94023700A4E138 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 453BBD381D94023700A4E138 /* Try异常处理 */;
+			targetProxy = 453BBD4D1D94023700A4E138 /* PBXContainerItemProxy */;
+		};
+		453BBD591D94023700A4E138 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 453BBD381D94023700A4E138 /* Try异常处理 */;
+			targetProxy = 453BBD581D94023700A4E138 /* PBXContainerItemProxy */;
+		};
 		4574DDD71D938D040059B062 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 4574DDC01D938D030059B062 /* SwiftPractise */;
@@ -1184,6 +1405,22 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		453BBD3F1D94023700A4E138 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				453BBD401D94023700A4E138 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		453BBD441D94023700A4E138 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				453BBD451D94023700A4E138 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
 		4574DDC81D938D040059B062 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -1267,6 +1504,84 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		453BBD5E1D94023700A4E138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Try异常处理/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.Try----";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		453BBD5F1D94023700A4E138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Try异常处理/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.Try----";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		453BBD601D94023700A4E138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Try异常处理Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.Try----Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Try异常处理.app/Try异常处理";
+			};
+			name = Debug;
+		};
+		453BBD611D94023700A4E138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Try异常处理Tests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.Try----Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Try异常处理.app/Try异常处理";
+			};
+			name = Release;
+		};
+		453BBD621D94023700A4E138 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "Try异常处理UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.Try----UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "Try异常处理";
+			};
+			name = Debug;
+		};
+		453BBD631D94023700A4E138 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "Try异常处理UITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "tc.Try----UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "Try异常处理";
+			};
+			name = Release;
+		};
 		4574DDE71D938D040059B062 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1757,6 +2072,30 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		453BBD641D94023700A4E138 /* Build configuration list for PBXNativeTarget "Try异常处理" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				453BBD5E1D94023700A4E138 /* Debug */,
+				453BBD5F1D94023700A4E138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		453BBD651D94023700A4E138 /* Build configuration list for PBXNativeTarget "Try异常处理Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				453BBD601D94023700A4E138 /* Debug */,
+				453BBD611D94023700A4E138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		453BBD661D94023700A4E138 /* Build configuration list for PBXNativeTarget "Try异常处理UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				453BBD621D94023700A4E138 /* Debug */,
+				453BBD631D94023700A4E138 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
 		4574DDBC1D938D030059B062 /* Build configuration list for PBXProject "SwiftPractise" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -1773,6 +2112,7 @@
 				4574DDEB1D938D040059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4574DDEC1D938D040059B062 /* Build configuration list for PBXNativeTarget "SwiftPractiseTests" */ = {
 			isa = XCConfigurationList;
@@ -1781,6 +2121,7 @@
 				4574DDEE1D938D040059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4574DDEF1D938D040059B062 /* Build configuration list for PBXNativeTarget "SwiftPractiseUITests" */ = {
 			isa = XCConfigurationList;
@@ -1789,6 +2130,7 @@
 				4574DDF11D938D040059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4574DE1B1D938F0E0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用" */ = {
 			isa = XCConfigurationList;
@@ -1797,6 +2139,7 @@
 				4574DE1D1D938F0E0059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4574DE1E1D938F0E0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用Tests" */ = {
 			isa = XCConfigurationList;
@@ -1805,6 +2148,7 @@
 				4574DE201D938F0E0059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4574DE211D938F0E0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用UITests" */ = {
 			isa = XCConfigurationList;
@@ -1813,6 +2157,7 @@
 				4574DE231D938F0E0059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4574DE4D1D9396CA0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用简洁的写法" */ = {
 			isa = XCConfigurationList;
@@ -1821,6 +2166,7 @@
 				4574DE4F1D9396CA0059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4574DE501D9396CA0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用简洁的写法Tests" */ = {
 			isa = XCConfigurationList;
@@ -1829,6 +2175,7 @@
 				4574DE521D9396CA0059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4574DE531D9396CA0059B062 /* Build configuration list for PBXNativeTarget "TableView的使用简洁的写法UITests" */ = {
 			isa = XCConfigurationList;
@@ -1837,6 +2184,7 @@
 				4574DE551D9396CA0059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4574DE7F1D93999C0059B062 /* Build configuration list for PBXNativeTarget "闭包的使用" */ = {
 			isa = XCConfigurationList;
@@ -1845,6 +2193,7 @@
 				4574DE811D93999C0059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4574DE821D93999C0059B062 /* Build configuration list for PBXNativeTarget "闭包的使用Tests" */ = {
 			isa = XCConfigurationList;
@@ -1853,6 +2202,7 @@
 				4574DE841D93999C0059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4574DE851D93999C0059B062 /* Build configuration list for PBXNativeTarget "闭包的使用UITests" */ = {
 			isa = XCConfigurationList;
@@ -1861,6 +2211,7 @@
 				4574DE871D93999C0059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4574DEB31D93A8700059B062 /* Build configuration list for PBXNativeTarget "自定义log" */ = {
 			isa = XCConfigurationList;
@@ -1869,6 +2220,7 @@
 				4574DEB51D93A8700059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4574DEB61D93A8700059B062 /* Build configuration list for PBXNativeTarget "自定义logTests" */ = {
 			isa = XCConfigurationList;
@@ -1877,6 +2229,7 @@
 				4574DEB81D93A8700059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4574DEB91D93A8700059B062 /* Build configuration list for PBXNativeTarget "自定义logUITests" */ = {
 			isa = XCConfigurationList;
@@ -1885,6 +2238,7 @@
 				4574DEBB1D93A8700059B062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
