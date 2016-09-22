@@ -50,6 +50,8 @@ class ViewController: UIViewController {
  */
 func NXLog<T>(message:T ,file:String = #file , function:String = #function , lineNum:Int = #line)
 {
+    #if DEBUG
     let fileName = (file as NSString).lastPathComponent
     print("\(fileName):(\(lineNum))--\(message)")  // 这里没加方法名，可以自己根据需要添加
+    #endif
 }
